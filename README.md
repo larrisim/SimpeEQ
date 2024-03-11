@@ -1,3 +1,3 @@
-# SimpeEQ
+# SimpelEQ
 -JUCE
 _XCode
